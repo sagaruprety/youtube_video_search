@@ -1,1 +1,2 @@
 # youtube_video_search
+This repository is about how to build a music video search and discovery application, powered by the capabilities of Qdrant vector store in Python. Qdrant offers advanced search and indexing functionalities, offering a robust and versatile solution for efficient data retrieval and exploration. Designed to meet the evolving needs of modern applications, it provides a powerful framework for organizing, querying, and analyzing vast datasets with speed and precision. 
